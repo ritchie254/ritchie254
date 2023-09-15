@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 <h1 align = "center"> Hi there 👋 Welcome To My Repo💯 </h1>
 <ul align="center">
   <a href="https://www.instagram.com/kenyan.lemonade_">
-  <img height="50" src="https://cdn0.iconfinder.com/data/icons/social-media-2475/128/instagram_social_media_social_media_network-512.png"/>
-</a>
+  <img height="50" src="https://www.iconfinder.com/icons/4747498/instagram_social_media_icon"></a>
   
 <a href="https://www.linkedin.com/in/richard-oduor-476730244">
   <img src="https://cdn0.iconfinder.com/data/icons/social-media-2475/128/linkedin_linked_interface_media_social_network-64.png">
@@ -29,5 +28,4 @@ Here are some ideas to get you started:
 <a href="https://wa.me/+254741834318">
   <img height="50" src="https://cdn0.iconfinder.com/data/icons/social-media-2475/128/whatsapp_social_media_social_media_network-512.png">
 </a>
-
 </ul>
