@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <h1 align = "center"> Hi there 👋 Welcome To My Repo💯 </h1><br>
 <!-- Cards -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=ritchie254" />
+  <img height=190 align="center" src="https://github-readme-stats.vercel.app/api?username=ritchie254" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=190 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ritchie254&layout=compact&langs_count=8&card_width=320" />
