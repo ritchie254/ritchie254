@@ -24,3 +24,7 @@ Here are some ideas to get you started:
   <img height=190 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ritchie254&layout=compact&langs_count=8&card_width=320" />
 </a>
 <!-- end -->
+<br>
+<p align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Ritchie%20💯&animation=fadeIn&fontSize=90" />
+    <br><br>
