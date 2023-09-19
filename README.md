@@ -26,5 +26,5 @@ Here are some ideas to get you started:
 <!-- end -->
 <br>
 <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Ritchie%20💯&animation=fadeIn&fontSize=90" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Let's%20Code🤠&animation=fadeIn&fontSize=90" />
     <br><br>
