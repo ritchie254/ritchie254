@@ -12,10 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1 align = "center"> Hi there 👋 Welcome To My Repo💯 </h1><br>
 <p align="center">
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />
 </p>
-<h1 align = "center"> Hi there 👋 Welcome To My Repo💯 </h1><br>
 <p align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Richard%20Oduor&animation=fadeIn&fontSize=90" />
     <br><br>
