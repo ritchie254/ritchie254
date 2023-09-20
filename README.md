@@ -21,9 +21,8 @@ Here are some ideas to get you started:
   <img height=190 align="center" src="https://github-readme-stats.vercel.app/api?username=ritchie254" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=190 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ritchie254&layout=compact&langs_count=8&card_width=320" />
+  <img height=190 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ritchie254&layout=compact&langs_count=8&card_width=320&theme=radical" />
 </a>
-    [![Ritchie's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ritchie254)](https://github.com/anuraghazra/github-readme-stats)
 <!-- end -->
 <br>
 <p align="center">
