@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align = "center"> Hi there 👋 Welcome To My Repo💯 </h1><br>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="center">
 <p align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Richard%20Oduor&animation=fadeIn&fontSize=90" />
     <br><br>
